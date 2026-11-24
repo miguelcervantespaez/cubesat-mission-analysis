@@ -1,0 +1,8 @@
+# Entorno virtual: se regenera con `python -m venv .venv` y `pip install -r requirements.txt`
+.venv/
+
+# Caché de bytecode que Python crea al importar módulos
+__pycache__/
+
+# Caché que pytest crea al ejecutar tests
+.pytest_cache/
